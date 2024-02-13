@@ -41,3 +41,13 @@ jobs:
           # You can swap them out with your own user credentials.
           user_name: github-actions[bot]
           user_email: 41898282+github-actions[bot]@users.noreply.github.com
+
+      - uses: 8398a7/action-slack@v3
+        if: always() # Pick up events even if the job fails or is canceled.
+        with:
+          status: ${{ job.status }}
+          fields: repo,message,commit,author,action,eventName,ref,workflow,job,took,pullRequest # selectable (default: repo,message)
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_CICD_WEBHOOK }} # required
+        
+    
