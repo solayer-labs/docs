@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[980],{8704:e=>{e.exports=JSON.parse('{"title":"Solayer Overview","slug":"/category/overview","permalink":"/category/overview","navigation":{"previous":{"title":"Welcome \ud83d\udd90\ufe0f","permalink":"/"},"next":{"title":"Basic Concepts","permalink":"/overview/basics"}}}')}}]);
