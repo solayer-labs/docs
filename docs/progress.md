@@ -6,4 +6,4 @@ title: Progress
 
 TODO progress and roadmap
 
-![solayer](./assets/image.png)
+![image](./assets/image.png)
