@@ -1,7 +1,9 @@
 ---
-slug: /overview
-sidebar_position: 2
-title: Overview
+slug: /overview/basics
+sidebar_position: 1
+sidebar_label: Basic Concepts
+title: The Basics
+description: Get up to speed on what restaking is about
 ---
 
 ### What is an AVS?
@@ -22,20 +24,4 @@ Constructing an AVS as a protocol secured by a restaking system sidesteps many o
 
 ### Why restake on Solana?
 
----
-
-TODO this on next page, basically details about previous concepts
-
-TODO make a better structure than what is below
-
-### Delegation / Operators
-
-### Liquid / Native Staking
-
-### Liquid / Native Restaking
-
----
-
-TODO another page explaining the current state of the project and the intended path forward
-
-TODO security section
+AVSs built on top of the security of restaked Solana receive a great deal of indirect benefit from Solana's high throughput and cheap blockspace. When these services need to signal or settle anything on-chain, they can do so quickly and cheaply. This opens up greater possibilities for the kinds of services that can be built when compared against similar restaking solutions built on less performant networks like Ethereum.
