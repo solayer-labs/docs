@@ -10,7 +10,6 @@ Solana users who have staked their SOL either natively or with a liquid staking 
 
 Developers interested in creating new decentralized applications that require networks of validators, may find that by using Solayer they can focus on building their applications instead of launching new trust networks from scratch. These services built with Solayer will also benefit from superior economic security than if they had launched their own network of validators.
 
-\
 
 
 ### **What is shared validator network?**
