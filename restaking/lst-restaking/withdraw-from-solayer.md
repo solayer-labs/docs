@@ -1,5 +1,9 @@
 # Withdraw from Solayer
 
+**Unbounding period on Solayer**&#x20;
+
+After restaking on Solayer programs, there will be a 7 day unbounding period after initiating the unstaking process, whether LST or native restaking. Secondly, before the process of delegation is released, any withdrawal from the resetaking layer will incur a penalty in the points accrued based on time weighting and amount unstaked.&#x20;
+
 **Step 1: You can see your total restaked asset in the table view**&#x20;
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
