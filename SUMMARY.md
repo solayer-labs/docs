@@ -13,7 +13,6 @@
   * [Withdraw from Solayer](restaking/withdraw-from-solayer.md)
   * [Restake Points](restaking/restake-points.md)
 * [Shared Validator Network](shared-validator-network/README.md)
-  * [Introduction](shared-validator-network/introduction.md)
   * [Node Operator](shared-validator-network/node-operator.md)
   * [SVN Modules](shared-validator-network/svn-modules.md)
   * [Inter-AVS Messaging Protocol](shared-validator-network/inter-avs-messaging-protocol.md)
