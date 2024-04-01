@@ -28,7 +28,7 @@
   * [Audits](security/audits.md)
   * [Bug Bounty](security/bug-bounty.md)
   * [Withdrawal Delays](security/withdrawal-delays.md)
-* [Contracts](contracts.md)
+* [Solayer Programs](solayer-programs.md)
 * [FAQ](faq.md)
 * [Informational](informational/README.md)
   * [Brand Kits](informational/brand-kits.md)
