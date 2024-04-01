@@ -1,4 +1,8 @@
-# Page
+---
+description: This page details the high level summary of restaking infrastructure.
+---
+
+# General Guideline
 
 #### What is an AVS?[​](https://docs.solayer.org/overview/basics#what-is-an-avs) <a href="#what-is-an-avs" id="what-is-an-avs"></a>
 

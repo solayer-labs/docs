@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Overview](overview/README.md)
-  * [Page](overview/page.md)
+  * [General Guideline](overview/general-guideline.md)
   * [Key Terms and Concepts](overview/key-terms-and-concepts.md)
   * [Protocol Features](overview/protocol-features.md)
   * [Support](overview/support.md)
