@@ -1,23 +1,16 @@
 # Introduction
 
-## **What is Solayer**
+## The First Principles
 
-A shared validator network on Solana through the restaking collective.
+Trust is central to any decentralized system. Proof of stake is the most common Byzantine Fault-Tolerant Consensus in use today. However, bootstrapping a proof of stake ecosystem is challenging. There must be an economically incentivized fair distribution of initial stake, often in the form of newly minted tokens. This process can entail steep financial costs for participants, as they need to invest capital in an asset with an uncertain risk profile.
 
-## Why use Solayer?[​](https://docs.solayer.org/#why-use-solayer) <a href="#why-use-solayer" id="why-use-solayer"></a>
+The concept of shared security emerged to solve this issue - leveraging the stake in established POS systems with well-recognized assets like ETH and Solana. These systems, with their established validator networks, can provide security for other decentralized systems. Newer networks could use the existing stake on such chains to provide economic guarantees and security.&#x20;
 
-Solana users who have staked their SOL either natively or with a liquid staking service, and who are also seeking additional rewards on top of their staking rewards, may benefit from committing their already-staked assets to Solayer's restaking protocol. In doing so, they will contribute to the security of a multitude of decentralized applications which will each repay the favor with some reward for users.
+## Solana's Superior Infrastructure&#x20;
 
-Developers interested in creating new decentralized applications that require networks of validators, may find that by using Solayer they can focus on building their applications instead of launching new trust networks from scratch. These services built with Solayer will also benefit from superior economic security than if they had launched their own network of validators.
+Solana's high-performant, cost-effective, and high execution infrastructure is superior for SVN (Shared Validator Network) builders, operators, and restakers. The advantages of utilizing Solana as the foundational platform for SVN include:
 
-## **What is** a shared **validator network?**
-
-Eigenlayer initiated the restaking concept on Ethereum, allowing ETH to be used as a restake asset to bolster the security of other networks. Building on this innovation, Solayer emerges as a shared validator network aimed at enhancing the security mechanisms of decentralized networks, beginning with Solana. Rather than creating new assets or chains, restaking leverages the established economic security of networks like Ethereum and Solana. This approach provides an efficient and interoperable system that significantly scales up economic security across the blockchain ecosystem.
-
-## The rudimentary problems of cryptoeconomic security
-
-As the blockchain landscape expands with the emergence of more Layer 1 networks, we're witnessing not just a fragmentation of liquidity but also a dispersion of decentralized trust. The collateral used in these networks is typically dedicated solely to securing the Layer 1, neglecting other decentralized or off-chain services. This leads to inefficiencies in both liquidity and trust. Moreover, the inherent design of Proof of Stake (PoS) systems requires developers to establish a network effect of trust: liquidity, validators, investors, and more, to ensure the network's integrity and functionality. The analogy applies to the same as rather than building on top of AWS, developers need to set up their own development infrastructure, from operating system, programming language, web application platform, database, and other services.
-
-## **Solana’s unique advantage**
-
-Solayer aims to become a market leader in shared security protocols by leveraging its first-mover advantage, fast execution environment, and strong community alignment. With the ability to leverage Solana's parallel processing and high-speed execution, Solayer is well-suited for computationally intensive applications like gaming and AI/ML. Its competitive pricing and low latency make it a strong contender against other restaking platforms. Solana's large and decentralized proof-of-stake chain, with a market capitalization of over $35 billion and more than 1,400 nodes, provides a solid foundation for Solayer. The introduction of MEV-Boost to the Solana ecosystem through Solayer could enhance block construction efficiency and increase yield advantages, making Solana staking even more attractive. Solayer's speed and pricing advantages are expected to enable new applications beyond traditional security constraints. With full ecosystem support from Solana to Eigenlayer and the potential for the fastest execution environment with upcoming off-chain compute and ZK co-processors, Solayer is poised to offer high-quality security and attract active users for application developers.
+1. **Cost-Effective SVN Construction:** Utilizing Solana as the native Data Availability layer for SVN significantly reduces the cost of building an SVN compared to Ethereum.
+2. **Low latency application**: Solana's lower block time production of 0.4 seconds compared to Ethereum's 20 seconds, enables low-latency SVNs resulting in a more responsive user experience. Examples include compute-intensive games, GPU clusters, and high-frequency DeFi applications.&#x20;
+3. **Cheaper state sync/update/finalization**: The process of state finalization, sync, and update of SVNs, which is a continual process to ensure the immutability and synchronization of validated applications, is considerably more cost-effective on Solana compared to other viable networks
+4. **Cheaper state transition storage**: Storing state transitions in SVN is significantly cheaper when powered by Solana, making it a more economical choice for developers and operators.
