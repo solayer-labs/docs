@@ -29,6 +29,6 @@
   * [Bug Bounty](security/bug-bounty.md)
   * [Withdrawal Delays](security/withdrawal-delays.md)
 * [Solayer Programs](solayer-programs.md)
-* [FAQ](faq.md)
+* [Active Research](active-research.md)
 * [Informational](informational/README.md)
   * [Brand Kits](informational/brand-kits.md)
