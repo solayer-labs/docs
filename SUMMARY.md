@@ -10,7 +10,6 @@
   * [LST Restaking](restaking/lst-restaking/README.md)
     * [Withdraw from Solayer](restaking/lst-restaking/withdraw-from-solayer.md)
   * [Basket Restaking](products/basket-restaking.md)
-  * [Operators](products/operators.md)
   * [Native Staked SOL Restaking](restaking/native-staked-sol-restaking.md)
   * [Liquid Restaking Token (LRT)](restaking/liquid-restaking-token-lrt.md)
   * [Restake Points](restaking/restake-points.md)
