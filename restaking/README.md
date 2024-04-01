@@ -1,2 +1,3 @@
 # Restaking&#x20;
 
+Restaking means to take the existing staked assets and re-use them to provide security to additional networks such as L1 chains which are bootstrapping their token and liquidity, this means that they can use the staked assets to bootstrap the security of their network. We achieve this by having the smart contracts on solana which allows a user to deposit the supported asset to get a 1:1 representation of LRT back. The LRT token is different per asset deposited into Solayer to ensure it stays correlated with the underlying asset. This means that if a user deposits j-sol they get s-j-sol back one to one with the deposited asset.
