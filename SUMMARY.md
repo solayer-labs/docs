@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
 * [Overview](overview/README.md)
-  * [General Guideline](overview/page.md)
   * [Key Terms and Concepts](overview/key-terms-and-concepts.md)
   * [Support](overview/support.md)
   * [Whitepaper](overview/whitepaper.md)
