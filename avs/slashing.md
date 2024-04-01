@@ -1,0 +1,5 @@
+# Slashing
+
+SVNs derive their economic security from a restaking mechanism, which is conceptually similar to the security achieved in Proof of Stake (PoS) systems through slashing of misbehaving actors. In Solayer, the implementation of the slashing function is left to the discretion of each individual AVS, allowing for tailored enforcement mechanisms. Solayer is responsible for executing the provided slashing function on-chain within the Shared Validator Network (SVN) when disputes arise.
+
+The SVN is a collective of Node Operators who each delegate a minimum amount of SOL to participate. In the event of a dispute within the network, the collective node operators re-executes the state transition function along with the slashing function. Operators in the network then collectively attest to the outcome and record it on Solayer's smart contract on the Solana blockchain. This contract aggregates the votes for a specific result and compares it with the original result submitted by the operator. If there is a discrepancy between the expected result and the actual result, the operator in question is penalized according to the slashing function.
