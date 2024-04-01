@@ -32,4 +32,3 @@
 * [FAQ](faq.md)
 * [Informational](informational/README.md)
   * [Brand Kits](informational/brand-kits.md)
-  * [Terms and Services](informational/terms-and-services.md)
