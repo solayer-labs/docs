@@ -1,2 +1,0 @@
-# Optimistic State Channel Slashing
-
