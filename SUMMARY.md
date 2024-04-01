@@ -18,6 +18,7 @@
   * [Inter-AVS Messaging Protocol](shared-validator-network/inter-avs-messaging-protocol.md)
   * [Delegation](shared-validator-network/delegation.md)
 * [AVS](avs/README.md)
+  * [Introduction](avs/introduction.md)
   * [Slashing](avs/task-based-slashing.md)
 * [Stage](stage/README.md)
   * [Stage 0: Genesis](stage/stage-0-genesis.md)
