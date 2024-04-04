@@ -1,8 +1,8 @@
 # Stage 0: Genesis
 
-**Genesis stage of Solayer launch is **_**private, and invite-only**_
+**Genesis stage of Solayer launch is **_**private, invite-only, and time-capped.**_&#x20;
 
-It is a two-week private access period, during which only members of the community who have received an invite code can participate in the restaking pool. This private access is restricted to whitelisted addresses that have been provided with a unique access code.
+It is a 24-hour private access period, during which only members of the community who have received an invite code can participate in the restaking pool. This private access is restricted to whitelisted addresses that have been provided with a unique access code.
 
 1. we have allocated 100 private access codes to our earliest supporters.
 2. Once an address is invited, it will receive two additional invite codes to share.
