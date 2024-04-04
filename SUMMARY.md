@@ -31,5 +31,4 @@
 * [Solayer Programs](solayer-programs.md)
 * [Active Research](active-research.md)
 * [Informational](informational/README.md)
-  * [Brand Kits](informational/brand-kits.md)
-* [Brand Kit](brand-kit.md)
+  * [Brand Kit](informational/brand-kit.md)
