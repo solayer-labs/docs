@@ -32,3 +32,4 @@
 * [Active Research](active-research.md)
 * [Informational](informational/README.md)
   * [Brand Kits](informational/brand-kits.md)
+* [Brand Kit](brand-kit.md)
