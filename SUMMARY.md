@@ -19,7 +19,7 @@
   * [Introduction](shared-validator-network-svn/introduction.md)
   * [SVN Modules](shared-validator-network-svn/svn-modules.md)
   * [Inter-AVS Messaging Protocol](shared-validator-network-svn/inter-avs-messaging-protocol.md)
-  * [Slashing](shared-validator-network-svn/slashing.md)
+  * [Dynamic Slashing](shared-validator-network-svn/dynamic-slashing.md)
 * [Stage](stage/README.md)
   * [Stage 0: Genesis](stage/stage-0-genesis.md)
 * [Governance](governance/README.md)
