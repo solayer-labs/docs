@@ -1,16 +1,13 @@
-# Introduction
+# What is Solayer
 
-## The First Principles
+Solayer is building a hub of restaking-secured app-chains natively on Solana.&#x20;
 
-Trust is central to any decentralized system. Proof of stake is the most common Byzantine Fault-Tolerant Consensus in use today. However, bootstrapping a proof of stake ecosystem is challenging. There must be an economically incentivized fair distribution of initial stake, often in the form of newly minted tokens. This process can entail steep financial costs for participants, as they need to invest capital in an asset with an uncertain risk profile.
+Solana as the _internet_ layer provides how data, trust, and money travel. Solayer leverages its economic security and premium execution as the _decentralized cloud infrastructure_ to enable higher degree of consensus and blockspace customization for _application_ developers.
 
-The concept of shared security emerged to solve this issue - leveraging the stake in established POS systems with well-recognized assets like ETH and Solana. These systems, with their established validator networks, can provide security for other decentralized systems. Newer networks could use the existing stake on such chains to provide economic guarantees and security.&#x20;
+To realize this, Solayer is a two-pronged approach:&#x20;
 
-## Solana's Superior Infrastructure&#x20;
+1. **Restaking**: to leverage the economic security of SOL to secure other systems
+2. **Shared validator network**: a network of horizontally-scaled app-chains localized on top of the Solana chain
 
-Solana's high-performant, cost-effective, and high execution infrastructure is superior for SVN (Shared Validator Network) builders, operators, and restakers. The advantages of utilizing Solana as the foundational platform for SVN include:
+The Solayer team is developing the core primitives around modular shared security, and will open-source in 3 main stages.&#x20;
 
-1. **Cost-Effective SVN Construction:** Utilizing Solana as the native Data Availability layer for SVN significantly reduces the cost of building an SVN compared to Ethereum.
-2. **Low latency application**: Solana's lower block time production of 0.4 seconds compared to Ethereum's 20 seconds, enables low-latency SVNs resulting in a more responsive user experience. Examples include compute-intensive games, GPU clusters, and high-frequency DeFi applications.&#x20;
-3. **Cheaper state sync/update/finalization**: The process of state finalization, sync, and update of SVNs, which is a continual process to ensure the immutability and synchronization of validated applications, is considerably more cost-effective on Solana compared to other viable networks
-4. **Cheaper state transition storage**: Storing state transitions in SVN is significantly cheaper when powered by Solana, making it a more economical choice for developers and operators.
