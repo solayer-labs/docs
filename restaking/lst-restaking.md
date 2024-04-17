@@ -1,6 +1,6 @@
 # LST Restaking
 
-As of April 1st, 2024, a significant portion of Solana's tokens is participating in liquid staking, a critical component of its restaking layer. Specifically, $2.29 billion worth of SOL has been liquid staked. This figure represents approximately 4.3% of Solana's total circulating value of $53 billion.&#x20;
+As of April 1st, 2024, a significant portion of Solana's tokens is participating in liquid staking, a critical component of its restaking layer. Specifically, $2.29 billion worth of SOL has been liquid staked.&#x20;
 
 **The liquid staked tokens Solayer is including at launch for restaking:**
 
