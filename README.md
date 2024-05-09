@@ -1,6 +1,6 @@
 # What is Solayer
 
-Solayer is building a hub of restaking-secured app-chains natively on Solana.&#x20;
+Solayer is building the restaking network natively on Solana.&#x20;
 
 Solana as the _internet_ layer provides how data, trust, and money travel. Solayer leverages its economic security and premium execution as the _decentralized cloud infrastructure_ to enable higher degree of consensus and blockspace customization for _application_ developers.
 
