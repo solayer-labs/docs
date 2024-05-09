@@ -8,11 +8,11 @@ The operational multisig oversees one of the core developments of Solayer Govern
 
 ### Treasury Multisigature&#x20;
 
-The Community Multisig is a 9/13 multisig composed of members of the cryptoeconomic community. In normal circumstances, the signers of the Community Multisig will simply act as observers, receiving regular updates on the Operations Multisig’s transactions, including notifications of the Operations Multisig queuing new time-locked actions. In extraordinary circumstances, the Community Multisig can perform emergency actions, including immediately executing time-critical upgrades or replacing the Operations Multisig in the event of private key compromise.
+The Community Multisig is a 3/5 multisig composed of members of the cryptoeconomic community. In normal circumstances, the signers of the Community Multisig will simply act as observers, receiving regular updates on the Operations Multisig’s transactions, including notifications of the Operations Multisig queuing new time-locked actions. In extraordinary circumstances, the Community Multisig can perform emergency actions, including immediately executing time-critical upgrades or replacing the Operations Multisig in the event of private key compromise.&#x20;
 
-Members include:&#x20;
+**Members include:**&#x20;
 
-### Executor Multisig&#x20;
-
-### Emergency
+Michael (Marinade)\
+Joseph Lallouz (Bison Trail)\
+Solayer Core Team&#x20;
 
