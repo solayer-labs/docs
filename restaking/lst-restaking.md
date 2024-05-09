@@ -2,12 +2,17 @@
 
 As of April 1st, 2024, a significant portion of Solana's tokens is participating in liquid staking, a critical component of its restaking layer. Specifically, $2.29 billion worth of SOL has been liquid staked.&#x20;
 
-**The liquid staked tokens Solayer is including at launch for restaking:**
+**Assets included in Solayer restaking infrastructure, and will be released in phases:**&#x20;
 
+SOL \
+Native Staked SOL \
 Marinade-SOL (mSOL)\
 JITO-SOL (JITO-SOL)\
 Blaze-SOL (bSOL)\
-MarginFi-SOL (mSOL)
+MarginFi-SOL (mSOL)\
+Helius-SOL (hSOL)\
+Drift-SOL (dSOL)\
+Infinity-SOL (INF)
 
 Solayer will monitor for other potential LSTs to be added into the restaking bucket. Please reach out to _team@solayer.org_ if there is room for collaboration.&#x20;
 
