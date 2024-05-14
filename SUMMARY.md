@@ -10,7 +10,6 @@
   * [Native Staked SOL Restaking](restaking/native-staked-sol-restaking.md)
   * [Introducing sSOL](restaking/introducing-ssol.md)
   * [Withdraw from Solayer](restaking/withdraw-from-solayer.md)
-  * [Restake Points](restaking/restake-points.md)
 * [Roadmap](stage/README.md)
   * [Stage 0: Genesis](stage/stage-0-genesis.md)
 * [Governance](governance/README.md)
