@@ -9,7 +9,7 @@ Native Staked SOL \
 Marinade-SOL (mSOL)\
 JITO-SOL (JITO-SOL)\
 Blaze-SOL (bSOL)\
-MarginFi-SOL (mSOL)\
+MarginFi-SOL (LST)\
 Helius-SOL (hSOL)\
 Drift-SOL (dSOL)\
 Infinity-SOL (INF)
