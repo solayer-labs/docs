@@ -14,7 +14,7 @@ Helius-SOL (hSOL)\
 Drift-SOL (dSOL)\
 Infinity-SOL (INF)
 
-Solayer will monitor for other potential LSTs to be added into the restaking bucket. Please reach out to _team@solayer.org_ if there is room for collaboration.&#x20;
+Solayer will monitor for other potential LSTs to be added into the restaking bucket. Please reach out to _team@solayer.org_ if there is room for collaboration. We will release SIP Solayer Improvement Proposal as a mechanism for LST additions.&#x20;
 
 Any assets deposited into Solayer will be matched with an equivalent SPL token, denoted by an 's-' in its symbol. Collectively, we call them Solayer assets. Initially, these tokens won't be transferable as this helps in calculating points for the liquidity reward program. However, they will become transferable in the future. Apart from ‌native SOL, all other assets won't have any unbounding lockups.
 
@@ -38,11 +38,11 @@ Diverging from Eigenlayer's model, which restricts AVS selection to either nativ
 
 **Step 1:** Navigate to app.solayer.org&#x20;
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2:** Select which LST you would like to restake&#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3**: Enter the amount you would like to restake for token approval
 
