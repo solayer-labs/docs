@@ -4,5 +4,5 @@ Solayer Launch Stage is a measure to ensure safety and security of the protocol 
 
 **Stage 1**
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

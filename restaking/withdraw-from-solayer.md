@@ -8,7 +8,7 @@
 
 **Step 2: Select which LST you would like to restake**&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3**: Enter the amount you would like to restake for token approval
 
@@ -26,7 +26,7 @@ Withdrawal will be enabled by the start of April. Withdrawals prior to the matur
 
 **Step 1: You can see your total restaked asset in the table view**&#x20;
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2: Click into tab in which you have deposited liquidity into**&#x20;
 
