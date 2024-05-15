@@ -5,6 +5,7 @@
 * [Overview](overview/README.md)
   * [Key Terms and Concepts](overview/key-terms-and-concepts.md)
   * [Support](overview/support.md)
+  * [What can be built on Solayer?](overview/what-can-be-built-on-solayer.md)
 * [Restaking ](restaking/README.md)
   * [LST Restaking](restaking/lst-restaking.md)
   * [Native Staked SOL Restaking](restaking/native-staked-sol-restaking.md)
