@@ -1,18 +1,21 @@
 # Multisigature Committees
 
-Solayer DAO is governed via the three-prong to ensure trustless checks and balances: Treasury, Operations, and Emergency. In addition, the Solayer smart contracts are upgradable by functionality, as well as other adjustable parameters, such as the ability to pause or upgrade. The three committes oversee protocol upgrades, adjustments, and emergency pauses.&#x20;
+The Solayer contract is inherently upgradable for several reasons. Firstly, stage 1 will be released in multiple phases, necessitating contract upgrades. Secondly, in emergencies, the core team must be able to swiftly implement proactive changes. Lastly, to ensure transparency and a community-first approach, the Solayer core team has decided to decentralize the development process. Hence, contract ownership is migrated to a multisig of known individuals within the Solana community.
 
-### Operational Multisigature
+**Multisig Address**: GcYvLKKEWpxQMqFe9HUcDJYMGvXt7kwf8gfBvjnW4wnm
 
-The operational multisig oversees one of the core developments of Solayer Governance. It is a 3/5 threshold multisig that can execute routine upgrades and maintenance that enforce a minimum 7-day delay on all safety-critical actiosn. It can also pause Solayer contracts in emergency situations.&#x20;
+**Program**: sSo1iU21jBrU9VaJ8PJib1MtorefUV4fzC9GURa2KNn
 
-### Treasury Multisigature&#x20;
+The upgradability of the Solayer contract is overseen by trusted community leaders. Initially, we have selected 3 out of the 5 multisig seat holders, with one seat occupied by the Solayer core team. To maintain our commitment to transparency and a community-first approach, we will gather community feedback to appoint 1 more community member to the governing seat. Candidates will be evaluated diligently following a public forum, and more information will be released soon.
 
-The Community Multisig is a 3/5 multisig composed of members of the cryptoeconomic community. In normal circumstances, the signers of the Community Multisig will simply act as observers, receiving regular updates on the Operations Multisig’s transactions, including notifications of the Operations Multisig queuing new time-locked actions. In extraordinary circumstances, the Community Multisig can perform emergency actions, including immediately executing time-critical upgrades or replacing the Operations Multisig in the event of private key compromise.&#x20;
+This multisig controls protocol-code upgrades. To modify our program, the multisig must have a 3 out of 5 quorum signing to approve any upgrade. Solayer core team may conduct a forum to discuss potential increase or decrease of seat holders and quorum threshold. This is to ensure no one can act maliciously and can be immediately stopped by others.&#x20;
 
-**Members include:**&#x20;
+**Below are the first 3 community seat holders, out of 5 in total.**
 
-Michael (Marinade)\
-Joseph Lallouz (Bison Trail)\
-Solayer Core Team&#x20;
+Joseph Lallouz (Bison Trail)
 
+Michael Repetny (Marinade Finance)&#x20;
+
+Robert Chen (Osec)
+
+Solayer Core Team (2 keys)
