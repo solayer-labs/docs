@@ -1,6 +1,6 @@
 # Restaking architecture
 
-**Restaking architecture**
+## **Restaking architecture**
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -19,7 +19,7 @@ The Restake method on Solayer is permissioned and requires an additional signatu
 
 
 
-**Native SOL restaking**
+## **Native SOL restaking**
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
