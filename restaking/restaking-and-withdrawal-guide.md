@@ -1,6 +1,30 @@
-# Withdraw from Solayer
+# Restaking and withdrawal guide
+
+## Restaking guide&#x20;
+
+**Step 1:** Navigate to app.solayer.org&#x20;
+
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+
+**Step 2:** Select which LST you would like to restake&#x20;
+
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+**Step 3**: Enter the amount you would like to restake for token approval
+
+**Step 4**: Confirm deposit &#x20;
+
+**Step 5**: Points will begin to accrue at the point of restaking&#x20;
+
+**Step 6**: At a given point of withdrawal, a portion of the points will be penalized before the launch of node operators&#x20;
+
+
+
+## Withdrawal guide
 
 Withdrawals like in other staking systems are delayed by an epoch to ensure that delegated funds are fully out of the system and the AVS remains secure during the withdrawals. Native staked SOL withdrawals are limited to the underlying withdrawal delay from the Solana blockchain and Solayer epoch delay will be added on top of any underlying delays.
+
+
 
 **Withdrawal Activation**
 

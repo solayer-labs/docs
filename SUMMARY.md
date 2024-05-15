@@ -9,7 +9,7 @@
 * [Restaking ](restaking/README.md)
   * [Restaking architecture](restaking/restaking-architecture.md)
   * [LST Restaking](restaking/lst-restaking.md)
-  * [Withdraw from Solayer](restaking/withdraw-from-solayer.md)
+  * [Restaking and withdrawal guide](restaking/restaking-and-withdrawal-guide.md)
 * [Roadmap](stage/README.md)
   * [Stage 0: Genesis](stage/stage-0-genesis.md)
 * [Governance](governance/README.md)
