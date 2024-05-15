@@ -8,6 +8,10 @@ The restaking pool manager oversees the flow of assets into the protocol. When u
 
 Once delegation to SVNs and node operators is live, users will construct their restaking portfolio by selecting the node operators to delegate to and SVNs to secure. They will then be issued a non-fungible token. This token is non-fungible due to the idiosyncratic risks associated with the selected node operators and the SVNs.
 
+Rewards accounting is calculated offline. Solayer has implemented a state watcher to keep track of deposits and withdrawals. Together with the invite relationship data, the additional rewards will be applied to user accounts in real-time.
+
+The `Restake` method on Solayer is permissioned and requires an additional signature from the server. This is to allow us to enforce deposit limits in the first few epochs. The `Unstake` method does not require an additional signature from Solayer.
+
 
 
 **Native SOL restaking**
