@@ -7,7 +7,7 @@
   * [Support](overview/support.md)
   * [What can be built on Solayer?](overview/what-can-be-built-on-solayer.md)
 * [Restaking ](restaking/README.md)
-  * [Native Staked SOL Restaking](restaking/native-staked-sol-restaking.md)
+  * [Restaking architecture](restaking/restaking-architecture.md)
   * [LST Restaking](restaking/lst-restaking.md)
   * [Withdraw from Solayer](restaking/withdraw-from-solayer.md)
 * [Roadmap](stage/README.md)

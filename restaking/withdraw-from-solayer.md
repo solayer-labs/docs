@@ -14,7 +14,7 @@ After restaking on Solayer programs, there will be an average 2 day unbounding p
 
 **Step 1: You can see your total restaked asset in the table view**&#x20;
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2: Click into tab in which you have deposited liquidity into**&#x20;
 
