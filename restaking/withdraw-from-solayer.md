@@ -30,6 +30,6 @@ Withdrawal will be enabled by the start of April. Withdrawals prior to the matur
 
 **Step 2: Click into tab in which you have deposited liquidity into**&#x20;
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3: Click on unstake button and confirm in your wallet**

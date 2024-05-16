@@ -20,3 +20,9 @@
 * [Solayer Programs](solayer-programs.md)
 * [Informational](informational/README.md)
   * [Brand Kit](informational/brand-kit.md)
+
+## Get Started
+
+* [To Use Ledger](get-started/to-use-ledger.md)
+* [To Use Solflare](get-started/to-use-solflare.md)
+* [To Use Phantom](get-started/to-use-phantom.md)

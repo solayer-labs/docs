@@ -2,7 +2,7 @@
 
 ## **Restaking architecture**
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The restaking pool manager oversees the flow of assets into the protocol. When users deposit LST or SOL (which is first converted to sSOL-raw), they receive a fungible token representation in return. Collectively, we call them Solayer assets. Currently illiquid to facilitate points calculation for the liquidity reward program, this representation will become liquid in the future to encourage composability with DeFi.
 
@@ -21,7 +21,7 @@ The Restake method on Solayer is permissioned and requires an additional signatu
 
 ## **Native SOL restaking**
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 For native SOL restaking, Solayer first converts your SOL to an intermediary form called sSOL-raw, which is the Liquid Staking Token (LST) issued by the stake pool manager. This entire process is non-custodial, ensuring that staked SOL is delegated to validators who earn MEV-boosted returns. The sSOL-raw is then converted to sSOL after another interaction with the Solayer restaking pool manager. All these steps are executed in a single transaction for efficiency.
 
