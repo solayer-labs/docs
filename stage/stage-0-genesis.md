@@ -6,7 +6,7 @@ It is a 24-hour private access period, during which only members of the communit
 
 1. we have allocated 100 private access codes to our earliest supporters.
 2. Once an address is invited, it will receive two additional invite codes to share.
-3. This program is limited to a 24-hour duration and with a maximum cap on of $50M deposit total value locked (TVL).
+3. This program is limited to a 24-hour duration and with a maximum cap on of $20M deposit total value locked (TVL).
 4. Every invitee after accessing the platform will have 5 more invite codes to pass out.&#x20;
 
 \
