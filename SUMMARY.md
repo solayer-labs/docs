@@ -16,7 +16,6 @@
   * [Multisigature Committees](governance/multisigature-committees.md)
 * [Security](security/README.md)
   * [Audits](security/audits.md)
-  * [Withdrawal Delays](security/withdrawal-delays.md)
 * [Solayer Programs](solayer-programs.md)
 * [Informational](informational/README.md)
   * [Brand Kit](informational/brand-kit.md)
