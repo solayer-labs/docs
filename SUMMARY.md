@@ -20,6 +20,7 @@
 * [Solayer Programs](solayer-programs.md)
 * [Informational](informational/README.md)
   * [Brand Kit](informational/brand-kit.md)
+* [FAQs](faqs.md)
 
 ## Get Started
 
