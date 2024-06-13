@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Blog banner.png
+coverY: 240.31932773109244
+---
+
 # Overview
 
 
