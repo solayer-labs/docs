@@ -3,11 +3,11 @@
 1. First, we assume you already have Phantom downloaded in your browser extension. If not, please  set up with Solflare ([instructions](https://solflare.com/)).&#x20;
 2. Click on "Solflare" as the option&#x20;
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 2. Click Approve and wait for signature from your wallet&#x20;
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
 
 3. Choose a pool and select "deposit"&#x20;
 

@@ -22,12 +22,12 @@
 5. You may see "unrecognized" as Ledger cannot read smart contract details, therefore Ledger will automatically display as "unrecognized"&#x20;
 6. Direct back to app.solayer.org and make sure to click on “I am using Ledger with Phantom”
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 1. Click on Phantom tab
 2. Confirm the transaction ([For ledger, message signature is not supported. The network fee you see here will not be broadcasted](https://spl.solana.com/memo))
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (3).png" alt=""><figcaption></figcaption></figure>
 
 5. Select "Confirm" transaction by confirming on your hardware device&#x20;
 
