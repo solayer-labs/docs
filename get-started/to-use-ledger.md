@@ -5,7 +5,7 @@
 1. First, we assume you already have Phantom downloaded in your browser extension. If not, please  set up with Phantom ([setup instructions](https://help.phantom.app/hc/en-us/articles/8071074929043-How-to-create-a-new-wallet)).&#x20;
 2. Click on the top left menu icon&#x20;
 
-<figure><img src="../.gitbook/assets/image (7).png" alt="" width="181"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (2).png" alt="" width="181"><figcaption></figcaption></figure>
 
 3. Click on the "plus" button&#x20;
 

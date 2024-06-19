@@ -7,7 +7,7 @@
 
 2. Click Approve and wait for signature from your wallet&#x20;
 
-<figure><img src="../.gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Choose a pool and select "deposit"&#x20;
 
