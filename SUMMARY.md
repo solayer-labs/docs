@@ -23,7 +23,6 @@
   * [Epoch 2](restaking-epochs/epoch-2.md)
 * [Solayer Valley Episodes](solayer-valley-episodes/README.md)
   * [Episode 1: The Timebox Sanctuary](solayer-valley-episodes/episode-1-the-timebox-sanctuary.md)
-* [First Cohort of E-AVSs](first-cohort-of-e-avss.md)
 * [Governance](governance/README.md)
   * [Multisigature Committees](governance/multisigature-committees.md)
 * [Security](security/README.md)
