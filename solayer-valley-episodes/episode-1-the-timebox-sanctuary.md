@@ -6,13 +6,26 @@ The Timebox Sanctuary blends shimmering brass with aged wood, creating an enchan
 
 Participation in Episode 1 is exclusive, requiring members to meet at least 3 of the following 6 criteria, ensuring a dedicated and engaged community:
 
-* Deposit in any of the LST pools
-* Obtain a permanent referral link (deposit 10 SOL)
-* Participate in Epoch 0
-* Participate in at least 3 epochs
-* Refer others who have deposited
-* Use all invite codes
+1. Got a permanent referral link
+2. Deposited in any of the LST pools
+3. Participated in Epoch 0
+4. Participated in at least 2 Epochs
+5. Referred users who have deposited
+6. Invited at least 3 people
 
-### **Completion Requirements**
+### Episode 1 Explainer&#x20;
 
-To fully stream Episode 1 and distribute rewards, 80% of qualifying participants must complete the journey. If this target is not met by July 8th, 4 days after the initial ending date, unclaimed rewards will be redistributed pro rata among the participants.
+Episode 1 went live at [app.solayer.org/valley](http://app.solayer.org/valley) on the July 2nd, alongside Epoch 3.
+
+Episode 1 is where depositors claim their rewards in conjunction with restaking deposits. This includes:
+
+1. **Percentile Rankings** - percentile ranking shows where you stand based on your deposit amount, such as being in the top 10%.
+2. **Numerical Ranks** - numerical rank indicates your position among all unique deposit addresses.
+3. **Extra Credits** - extra credits provide boosts based on specific actions, such as Epoch 0 and Epoch 1 participation, as well as basic LST and native SOL boost.
+4. **Referral Points** - referral points are earned based on how many people joined using your referral link and their deposit amounts.
+
+Episodes capture your contribution to the protocol alongside product milestones. Future Episodes will offer refreshed snapshots for further claims.&#x20;
+
+Concurrently, Epoch 3 is live for eligibility checks, and withdrawals will be enabled after EP 1 claims are completed to avoid accounting errors.&#x20;
+
+More information on withdrawals will be provided soon.
