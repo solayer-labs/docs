@@ -1,14 +1,34 @@
-# First principles
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-Trust is central to any decentralized system. Proof of stake is the most common Byzantine Fault-Tolerant Consensus in use today. However, bootstrapping a proof of stake ecosystem is challenging. There must be an economically incentivized fair distribution of initial stake, often in the form of newly minted tokens. This process can entail steep financial costs for participants, as they need to invest capital in an asset with an uncertain risk profile.
+# First Principles
 
-The concept of shared security emerged to solve this issue - leveraging the stake in established POS systems with well-recognized assets like ETH and Solana. These systems, with their established validator networks, can provide security for other decentralized systems. Newer networks could use the existing stake on such chains to provide economic guarantees and security.&#x20;
+### Building something people want&#x20;
 
-## Solana's Superior Infrastructure&#x20;
+We are not first time builders in crypto. We also did not get into crypto for the hype. We were in this space when no one knew what it was.&#x20;
 
-Solana's high-performant, cost-effective, and high execution infrastructure is superior for SVN (Shared Validator Network) builders, operators, and restakers. The advantages of utilizing Solana as the foundational platform for SVN include:
+Product Market Fit is not a commonly used metric in crypto products, and very much narrative-driven just like any novel technological darling.&#x20;
 
-1. **Cost-Effective SVN Construction:** Utilizing Solana as the native Data Availability layer for SVN significantly reduces the cost of building an SVN compared to Ethereum.
-2. **Low latency application**: Solana's lower block time production of 0.4 seconds compared to Ethereum's 20 seconds, enables low-latency SVNs resulting in a more responsive user experience. Examples include compute-intensive games, GPU clusters, and high-frequency DeFi applications.&#x20;
-3. **Cheaper state sync/update/finalization**: The process of state finalization, sync, and update of SVNs, which is a continual process to ensure the immutability and synchronization of validated applications, is considerably more cost-effective on Solana compared to other viable networks
-4. **Cheaper state transition storage**: Storing state transitions in SVN is significantly cheaper when powered by Solana, making it a more economical choice for developers and operators.
+Yes, absolutely, we need to capture the narrative, but there were few strategic decisions we made to ensure the product outlasts narrative.&#x20;
+
+* PoS staking has unchallenged PMF, so in addition to restaking, our 1st layer infrastructure covers everything Marinade or JITO has built — single stake pool and MEV-boost yield. Unlike Eigenlayer, which does not have liquid staking, it does not generate revenue. Solana only has $4B in SOL staked, and the opportunity is a $80B market.&#x20;
+* We did not fundamentally agree with Eigenlayer’s technical architecture. So we re-architected, in a sense, restandardized restaking in the Solana land. Reusing stake as a way of securing network bandwidth for apps. We aim to become the de facto infrastructure for stake-weighted quality of service, and eventually, a core primitive of the Solana blockchain/consensus. &#x20;
+
+### Building something that lasts&#x20;
+
+细水长流 - thin streams flow forever. It’s hard to not be hyped when there is good progress, especially in an industry like ours. But as an internal principle, we aim to be there for as long as Solana exists.&#x20;
+
+This requires consistency and persistence.&#x20;
+
+From hosting weekly engineering research presentations to submitting direct fixes to the Solana codebase, these are minor efforts that demonstrate to the team that building something that lasts will get us a lot farther than the short-term excitement.
