@@ -25,8 +25,8 @@ We aim to empower on-chain decentralized applications (dApps) with improved netw
 
 Our goal is to provide dApps on Solana with a greater likelihood of securing block space and prioritizing transaction inclusion.&#x20;
 
-{% content-ref url="../litepaper.md" %}
-[litepaper.md](../litepaper.md)
+{% content-ref url="litepaper.md" %}
+[litepaper.md](litepaper.md)
 {% endcontent-ref %}
 
 {% content-ref url="official-links.md" %}

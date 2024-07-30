@@ -14,12 +14,6 @@ layout:
 
 # Trading & Rewards
 
-### Where can I trade sSOL-SOL pairs?
-
-sSOL-SOL pairs are available for trading on Raydium and Orca. We will also list these pairs on our DeFi page for easy access. More protocol integrations will be announced soon.&#x20;
-
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
 ### Can I transfer sSOL to other wallets or dApps?
 
 Yes, users can transfer sSOL to other wallets or dApps. However, please note that transferring sSOL may affect your ability to accrue points, as detailed below.

@@ -7,10 +7,10 @@
 ## Solayer Overview&#x20;
 
 * [Introduction](solayer-overview/introduction/README.md)
+  * [Litepaper](solayer-overview/introduction/litepaper.md)
   * [Official Links](solayer-overview/introduction/official-links.md)
   * [FAQ](solayer-overview/introduction/faq.md)
   * [Terms and Concepts](solayer-overview/introduction/terms-and-concepts.md)
-* [Litepaper](solayer-overview/litepaper.md)
 * [What is sSOL?](solayer-overview/what-is-ssol/README.md)
   * [Liquidity](solayer-overview/what-is-ssol/liquidity.md)
   * [sSOL in DeFi](solayer-overview/what-is-ssol/ssol-in-defi.md)
