@@ -51,7 +51,7 @@ layout:
 
 <figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
-13. You will see sSOL or sLST-SOL in your wallet as a representation SPL. Please note that it is NOT transferrable and will be made redeemable/transferrable at a later Epoch noted in our release schedule. Read more under the [restaking](https://docs.solayer.org/solayer-docs/restaking/restaking-architecture) [guide](https://docs.solayer.org/solayer-docs/restaking/restaking-architecture) to understand the denotation.&#x20;
+13. You will see sSOL or sLST-SOL in your wallet as a representation SPL. Please note that it is NOT transferrable and will be made redeemable/transferrable at a later Epoch noted in our release schedule. Read more under the [restaking guide](https://docs.solayer.org/solayer-docs/restaking/restaking-architecture) to understand the denotation.&#x20;
 14. As whitelisted individuals, you will be directly taken to app.solayer.org staking page.&#x20;
 15. If you are not invited, please wait for Epoch 1. We work closely with supporters and collaborators for Epoch 0 for security reasons.&#x20;
 
@@ -71,4 +71,4 @@ To ensure smooth functionality when interacting with smart contracts, it is esse
    * Navigate to the settings menu.
    * Enable blind signing in the device settings.
 
-By enabling blind signing, you ensure that you can seamlessly interact with smart contracts and complete necessary transactions, even when detailed transaction data cannot be displayed on the Ledger screen.\
+By enabling blind signing, you ensure that you can seamlessly interact with smart contracts and complete necessary transactions, even when detailed transaction data cannot be displayed on the Ledger screen.

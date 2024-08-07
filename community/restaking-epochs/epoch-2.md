@@ -18,7 +18,7 @@ During this stage, the restrictions on TVL are lifted, allowing for unrestricted
 #### How to participate:
 
 1. Get an invite code
-2. Access[ app.solayer.org](http://app.solayer.org)
-3. Follow us on socials
+2. Access[app.solayer.org](http://app.solayer.org)
+3. Follow us on social media
 4. Enter invite code
 5. Restake

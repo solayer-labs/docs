@@ -24,7 +24,7 @@ layout:
 
 ## Academy
 
-📝 Writings: [https://solayer.org/blogs](https://solayer.org/blogs)
+📝 Writings: [https://solayer.org/blog](https://solayer.org/blog)
 
 :books:  Solayer 101: [https://solayer.org/101](https://solayer.org/101)
 
