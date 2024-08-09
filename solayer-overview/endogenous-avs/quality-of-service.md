@@ -14,7 +14,7 @@ layout:
 
 # Quality of Service
 
-Stake-weighted quality of service (QoS) refers to the allocation of network resources, such as block space and transaction processing capacity, based on the amount of stake committed by validators or stakers. Under this model, a validator with 1% stake would have the right to transmit up to 1% of the packets to the epoch leader and would be capable of resisting Sybil attacks from the rest of the network. Commercial RPC infrastructure operators and entities hosting their own validator nodes and RPC nodes would benefit the most from this, as RPC nodes could include more transactions in blocks by agreeing to peer with validators, and validators may sell more capacity to RPC nodes.&#x20;
+Stake-weighted quality of service (QoS) refers to the allocation of network resources, such as block space and transaction processing capacity, based on the amount of stake committed by validators or stakers. Under this model, a validator with a 1% stake would have the right to transmit up to 1% of the packets to the epoch leader and would be capable of resisting Sybil attacks from the rest of the network. Commercial RPC infrastructure operators and entities hosting their validator nodes and RPC nodes would benefit the most from this, as RPC nodes could include more transactions in blocks by agreeing to peer with validators, and validators may sell more capacity to RPC nodes.&#x20;
 
 ### How does swQoS work?
 

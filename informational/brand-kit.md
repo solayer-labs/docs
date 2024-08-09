@@ -2,7 +2,7 @@
 description: >-
   A brand kit is a collection of visual and textual elements that define a
   brand's identity. It can include logos, colors, fonts, images, tone of voice,
-  and templates. Use below assets to your design.
+  and templates. Use the below assets for your design.
 ---
 
 # Brand Kit

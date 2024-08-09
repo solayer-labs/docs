@@ -1,6 +1,6 @@
 # Rewards Claiming Guide
 
-1. **If eligible, you will be able to enter the Valley in order to claim your rewards.**&#x20;
+1. **If eligible, you will be able to enter the Valley to claim your rewards.**&#x20;
 
 <figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
@@ -15,7 +15,7 @@
 
 <figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
-5. **Claim your Rewards (4/4):** get a mystery box that will be revealed after Episode 1.
+5. **Claim your Rewards (4/4):** Get a mystery box that will be revealed after Episode 1.
 
 <figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 

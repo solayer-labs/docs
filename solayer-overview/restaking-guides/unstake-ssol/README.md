@@ -1,5 +1,5 @@
 ---
-description: Unstaking activated at 3 AM UTC (8 PM PST) on July 8th.
+description: Unstaking was activated at 3 AM UTC (8 PM PST) on July 8th.
 ---
 
 # Unstake sSOL
@@ -13,7 +13,7 @@ Tokens can only be withdrawn from a stake account when they are not delegated. W
 Withdrawing LSTs is simple. Select the amount you wish to withdraw, and the tokens will be sent back to your main wallet address.
 
 * Upon withdrawing, you will be able to see the full amount of rewards, as well as the deductions from your account.&#x20;
-* It is important to note that we are not deducting anything from your deposit but take a percentage of the accrued credits so far.
+* It is important to note that we are not deducting anything from your deposit but taking a percentage of the accrued credits so far.
 
 ### Accounting Deduction
 
@@ -29,14 +29,14 @@ Currently, native SOL has a significant priority over other LSTs. However, we ma
 
 _**Withdrawing All Tokens from a Stake Account**_
 
-1. User has a wallet with a balance of 900 SOL and a single stake account with 100 SOL delegated to a validator.
+1. The user has a wallet with a balance of 900 SOL and a single stake account with 100 SOL delegated to a validator.
 2. The user uses the wallet interface to deactivate their stake delegation. The stake account shows in the wallet interface and on the Explorer that it is “Deactivating.” Once it is “Inactive,” the staked tokens stop earning rewards and can be withdrawn.&#x20;
 3. The wallet interface can be used to withdraw all tokens back into the main wallet account. The wallet balance now shows 1,000 SOL and the stake account is closed.
 
 _**Reducing the Delegation Staked to a Given Validator**_
 
-1. User has a wallet with a balance of 800 SOL and a single stake account with 200 SOL delegated to a validator.
-2. User wants to reduce the amount of stake delegated to the validator by 100 SOL.
+1. The user has a wallet with a balance of 800 SOL and a single stake account with 200 SOL delegated to a validator.
+2. The user wants to reduce the amount of stake delegated to the validator by 100 SOL.
 3. Use the wallet interface to “Split” the stake account and specify 100 SOL as the amount to split.
 4. There are now 2 stake accounts, each with 100 SOL, delegated to the same validator.
 5. The user can then use the wallet interface to deactivate one of their stake delegations. The stake account shows in the wallet interface and on the Explorer that it is “Deactivating.” Once it is “Inactive,” the staked tokens stop earning rewards and can be withdrawn.&#x20;

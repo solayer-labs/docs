@@ -7,7 +7,7 @@ const config: Config = {
   tagline: 'Restaking on Solana.',
   favicon: 'img/favicon.ico',
 
-  // Set the production url of your site here
+  // Set the production URL of your site here
   url: 'https://docs.solayer.org',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
@@ -20,7 +20,7 @@ const config: Config = {
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
+  // useful metadata like HTML lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
