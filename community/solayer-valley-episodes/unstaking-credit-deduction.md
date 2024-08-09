@@ -1,6 +1,6 @@
 # Unstaking Credit Deduction
 
-The credit deduction mechanism is designed to manage the rewards earned through staked SOL, ensuring fair distribution and reward long term community members. Here's a detailed explanation of how it works.
+The credit deduction mechanism is designed to manage the rewards earned through staked SOL, ensuring fair distribution and rewarding long-term community members. Here's a detailed explanation of how it works.
 
 ## Accounting Deduction
 
@@ -38,7 +38,7 @@ So, if you generated 1000 credits on the 10 SOL deposited, 50 credits will be de
 * **Credits Earned:** 300 credits (assuming a mix of native SOL and LSTs, with appropriate multipliers)
 * **Deduction: (10 / 50 \* 300) \* 0.5 = 30 credits**
 
-In this case, if you generated 300 creditson the 10 SOL deposited, 30 credits will be deducted, leaving you with 270 credits.
+In this case, if you generated 300 credits on the 10 SOL deposited, 30 credits will be deducted, leaving you with 270 credits.
 
 ### _**Example 3: Withdrawing 50% of Staked SOL**_
 
