@@ -14,7 +14,7 @@ layout:
 
 # What is sSOL?
 
-sSOL is the universal liquidity layer for delegates \[dApps] and LRTs on Solayer. Every unit of SOL can be perceived as a unit of blockspace lent towards dApps, securing network bandwidth and TPS.&#x20;
+sSOL is the universal liquidity layer for delegates \[dApps] and LRTs on Solayer. Every unit of SOL can be perceived as a unit of block space lent towards dApps, securing network bandwidth and TPS.&#x20;
 
 The stake delegated towards dApps, which derives an AVS SPL token, is built on top of sSOL-SOL liquidity. Similarly, LRTs are built on top of sSOL liquidity interface to generate vault strategies.&#x20;
 
