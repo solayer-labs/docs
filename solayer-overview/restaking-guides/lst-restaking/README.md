@@ -1,6 +1,6 @@
 # LST Restaking
 
-As of April 1st, 2024, a significant portion of Solana's tokens are participating in liquid staking, with $2.29 billion worth of SOL having been liquid staked. Liquid Staking Tokens (LSTs) included in Solayer's restaking infrastructure will be released in phases. The initial ones are listed below:
+As of April 1st, 2024, a significant portion of Solana's tokens is participating in liquid staking, with $2.29 billion worth of SOL having been liquid-staked. Liquid Staking Tokens (LSTs) included in Solayer's restaking infrastructure will be released in phases. The initial ones are listed below:
 
 * Marinade-SOL (mSOL)
 * JITO-SOL (JITO-SOL)
