@@ -28,17 +28,17 @@ layout:
 4.  Click "Connect Hardware Wallet"&#x20;
 
     <figure><img src="../../.gitbook/assets/image (9) (2).png" alt="" width="179"><figcaption></figcaption></figure>
-5. Complete the process of connecting wallet with Phantom
+5. Complete the process of connecting the wallet with the Phantom
 
 <figure><img src="../../.gitbook/assets/image (10) (2).png" alt="" width="188"><figcaption></figcaption></figure>
 
-6. Please make sure to enable blind signing, as the smart contract transactions cannot be displayed on Ledger. Therefore for third party integrations, you will only be able to sign the transaction if blind signing is on. [Please DYOR before doing so as well](https://www.ledger.com/academy/enable-blind-signing-why-when-and-how-to-stay-safe).&#x20;
+6. Please make sure to enable blind signing, as the smart contract transactions cannot be displayed on the Ledger. Therefore for third-party integrations, you will only be able to sign the transaction if blind signing is on. [Please DYOR before doing so as well](https://www.ledger.com/academy/enable-blind-signing-why-when-and-how-to-stay-safe).&#x20;
 7. You may see "unrecognized" as Ledger cannot read smart contract details, therefore Ledger will automatically display as "unrecognized"&#x20;
 8. Direct back to app.solayer.org and make sure to click on “I am using Ledger with Phantom”
 
 <figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
-9. Click on Phantom tab
+9. Click on the Phantom tab
 10. Confirm the transaction ([For ledger, message signature is not supported. The network fee you see here will not be broadcasted](https://spl.solana.com/memo))
 
 <figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
@@ -51,7 +51,7 @@ layout:
 
 <figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
-13. You will see sSOL or sLST-SOL in your wallet as a representation SPL. Please note that it is NOT transferrable and will be made redeemable/transferrable at a later Epoch noted in our release schedule. Read more under the [restaking](https://docs.solayer.org/solayer-docs/restaking/restaking-architecture) [guide](https://docs.solayer.org/solayer-docs/restaking/restaking-architecture) to understand the denotation.&#x20;
+13. You will see sSOL or sLST-SOL in your wallet as a representation of SPL. Please note that it is NOT transferrable and will be made redeemable/transferrable at a later Epoch noted in our release schedule. Read more under the [restaking](https://docs.solayer.org/solayer-docs/restaking/restaking-architecture) [guide](https://docs.solayer.org/solayer-docs/restaking/restaking-architecture) to understand the denotation.&#x20;
 14. As whitelisted individuals, you will be directly taken to app.solayer.org staking page.&#x20;
 15. If you are not invited, please wait for Epoch 1. We work closely with supporters and collaborators for Epoch 0 for security reasons.&#x20;
 
